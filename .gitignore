@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.json
+# só não ignore os .json de exemplo se quiser, mas normalmente ignoramos todos os dados
+! .env.example
+! README.md
+! package.json
+! .gitignore
