@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "discord.js": "^14.15.3",
-    "dotenv": "^16.4.5"
+    "yaml": "^2.8.3"
   },
   "author": "GFgeferson",
   "license": "MIT"
